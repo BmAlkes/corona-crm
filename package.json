@@ -1,0 +1,19 @@
+{
+  "name": "project-corona",
+  "version": "1.0.0",
+  "description": "project corona -crm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BmAlkes/corona-crm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BmAlkes/corona-crm/issues"
+  },
+  "homepage": "https://github.com/BmAlkes/corona-crm#readme"
+}
